@@ -1,0 +1,11 @@
+D:\excerciseCsharp\EncDec\EncDec\bin\Debug\EncDec.exe.config
+D:\excerciseCsharp\EncDec\EncDec\bin\Debug\EncDec.exe
+D:\excerciseCsharp\EncDec\EncDec\bin\Debug\EncDec.pdb
+D:\excerciseCsharp\EncDec\EncDec\obj\Debug\EncDec.csproj.AssemblyReference.cache
+D:\excerciseCsharp\EncDec\EncDec\obj\Debug\EncDec.csproj.SuggestedBindingRedirects.cache
+D:\excerciseCsharp\EncDec\EncDec\obj\Debug\EncDec.Form1.resources
+D:\excerciseCsharp\EncDec\EncDec\obj\Debug\EncDec.Properties.Resources.resources
+D:\excerciseCsharp\EncDec\EncDec\obj\Debug\EncDec.csproj.GenerateResource.cache
+D:\excerciseCsharp\EncDec\EncDec\obj\Debug\EncDec.csproj.CoreCompileInputs.cache
+D:\excerciseCsharp\EncDec\EncDec\obj\Debug\EncDec.exe
+D:\excerciseCsharp\EncDec\EncDec\obj\Debug\EncDec.pdb

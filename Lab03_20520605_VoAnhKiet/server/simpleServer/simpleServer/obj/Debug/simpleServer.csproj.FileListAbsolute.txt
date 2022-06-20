@@ -1,0 +1,11 @@
+D:\excerciseCsharp\Lab03_20520605_VoAnhKiet\server\simpleServer\simpleServer\bin\Debug\simpleServer.exe.config
+D:\excerciseCsharp\Lab03_20520605_VoAnhKiet\server\simpleServer\simpleServer\bin\Debug\simpleServer.exe
+D:\excerciseCsharp\Lab03_20520605_VoAnhKiet\server\simpleServer\simpleServer\bin\Debug\simpleServer.pdb
+D:\excerciseCsharp\Lab03_20520605_VoAnhKiet\server\simpleServer\simpleServer\obj\Debug\simpleServer.csproj.AssemblyReference.cache
+D:\excerciseCsharp\Lab03_20520605_VoAnhKiet\server\simpleServer\simpleServer\obj\Debug\simpleServer.csproj.CoreCompileInputs.cache
+D:\excerciseCsharp\Lab03_20520605_VoAnhKiet\server\simpleServer\simpleServer\obj\Debug\simpleServer.exe
+D:\excerciseCsharp\Lab03_20520605_VoAnhKiet\server\simpleServer\simpleServer\obj\Debug\simpleServer.pdb
+D:\excerciseCsharp\Lab03_20520605_VoAnhKiet\server\simpleServer\simpleServer\bin\Debug\DemoLibrary.dll
+D:\excerciseCsharp\Lab03_20520605_VoAnhKiet\server\simpleServer\simpleServer\bin\Debug\DemoLibrary.pdb
+D:\excerciseCsharp\Lab03_20520605_VoAnhKiet\server\simpleServer\simpleServer\bin\Debug\DemoLibrary.dll.config
+D:\excerciseCsharp\Lab03_20520605_VoAnhKiet\server\simpleServer\simpleServer\obj\Debug\simpleServer.csproj.CopyComplete

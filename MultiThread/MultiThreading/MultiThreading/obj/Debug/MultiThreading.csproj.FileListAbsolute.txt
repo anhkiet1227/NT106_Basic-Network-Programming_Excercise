@@ -1,0 +1,10 @@
+D:\excerciseCsharp\MultiThread\MultiThreading\MultiThreading\bin\Debug\MultiThreading.exe.config
+D:\excerciseCsharp\MultiThread\MultiThreading\MultiThreading\bin\Debug\MultiThreading.exe
+D:\excerciseCsharp\MultiThread\MultiThreading\MultiThreading\bin\Debug\MultiThreading.pdb
+D:\excerciseCsharp\MultiThread\MultiThreading\MultiThreading\obj\Debug\MultiThreading.csproj.AssemblyReference.cache
+D:\excerciseCsharp\MultiThread\MultiThreading\MultiThreading\obj\Debug\MultiThreading.Form1.resources
+D:\excerciseCsharp\MultiThread\MultiThreading\MultiThreading\obj\Debug\MultiThreading.Properties.Resources.resources
+D:\excerciseCsharp\MultiThread\MultiThreading\MultiThreading\obj\Debug\MultiThreading.csproj.GenerateResource.cache
+D:\excerciseCsharp\MultiThread\MultiThreading\MultiThreading\obj\Debug\MultiThreading.csproj.CoreCompileInputs.cache
+D:\excerciseCsharp\MultiThread\MultiThreading\MultiThreading\obj\Debug\MultiThreading.exe
+D:\excerciseCsharp\MultiThread\MultiThreading\MultiThreading\obj\Debug\MultiThreading.pdb

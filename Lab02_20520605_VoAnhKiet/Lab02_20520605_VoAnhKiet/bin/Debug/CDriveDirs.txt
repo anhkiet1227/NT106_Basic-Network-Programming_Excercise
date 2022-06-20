@@ -1,0 +1,16 @@
+$Recycle.Bin
+$WinREAgent
+Documents and Settings
+Garena
+Intel
+msys64
+OEM
+OneDriveTemp
+PerfLogs
+Program Files
+Program Files (x86)
+ProgramData
+Recovery
+System Volume Information
+Users
+Windows

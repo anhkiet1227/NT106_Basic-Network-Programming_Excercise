@@ -1,0 +1,14 @@
+D:\excerciseCsharp\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+D:\excerciseCsharp\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+D:\excerciseCsharp\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+D:\excerciseCsharp\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.AssemblyReference.cache
+D:\excerciseCsharp\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+D:\excerciseCsharp\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+D:\excerciseCsharp\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+D:\excerciseCsharp\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+D:\excerciseCsharp\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
+D:\excerciseCsharp\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+D:\excerciseCsharp\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form2.resources
+D:\excerciseCsharp\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form3.resources
+D:\excerciseCsharp\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form4.resources
+D:\excerciseCsharp\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form5.resources
